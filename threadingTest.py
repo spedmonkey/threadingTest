@@ -1,7 +1,7 @@
 import sys, time
 from PyQt4 import QtCore, QtGui
 from subprocess import Popen, PIPE
-
+#awesome
 class MyApp(QtGui.QWidget):
     def __init__(self, parent=None):
         QtGui.QWidget.__init__(self, parent)
